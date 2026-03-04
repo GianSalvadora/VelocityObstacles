@@ -18,3 +18,8 @@ mingw32-make run
 - `G` Toggle goal lines
 - `A` Toggle velocity arrows
 - `Click` Spawn agent
+
+
+## Gallery
+
+<img width="887" height="593" alt="image" src="https://github.com/user-attachments/assets/37ca77be-cc3f-4a29-a84b-8497e2db6845" />
